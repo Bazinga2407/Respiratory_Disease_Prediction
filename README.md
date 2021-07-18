@@ -132,11 +132,7 @@ labels being correct and accurate. Once this becomes rectified, and the images a
 can resume against the ChestXray14 dataset.
 
 
-## Tech Stack
 
-<p align = "center">
-<img align="center" src="data/tech_stack.jpg" alt="tech_stack_banner"/>
-</p>
 
 ## References
 [NIH Clinical Center provides one of the largest publicly available chest x-ray datasets to scientific community](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community?utm_content=buffer0bad0&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
