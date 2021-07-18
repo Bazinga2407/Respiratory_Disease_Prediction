@@ -1,7 +1,7 @@
 # RespiratoryDisease_Prediction
 Designed a Prediction Model based on open-source National Institutes of Health (U.S HHS) Dataset.
 
-# X-Net: Classifying Chest X-Rays Using Deep Learning
+# Classifying Chest X-Rays Using Deep Learning
 
 ## Background
 In October 2017, the National Institute of Health open sourced 112,000+ images of chest
