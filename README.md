@@ -118,17 +118,7 @@ are the images (and structured data) being labeled incorrectly. He also notes th
 
 This became evident when training both models. Despite regularization, and rectifying the class imbalances,
 both models learned to return meaningless predictions. Per the above statement, this can be attributed to the incorrect
-labeling of the images.
-
-
-Due to these findings, per Mr. Oakden-Rayner, and my own analysis: "I believe the ChestXray14 dataset, as it exists now, is not fit for training medical AI systems to do diagnostic work."
-
-
-This doesn't discount convolutional neural networks from being able to predict diseases, but this is dependent on the
-labels being correct and accurate. Once this becomes rectified, and the images are correctly labeled, further analysis
-can resume against the ChestXray14 dataset.
-
-
+labeling of the images. 
 
 
 ## References
