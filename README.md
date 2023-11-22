@@ -103,13 +103,6 @@ The model is similar to the VGG architectures; 2 to 3 convolution layers are use
 Dropout is used in the fully connected layers only, which slightly
 improved the results.
 
-## Results (Convolutional Neural Network)
-|Measurement|Score|
-| :-------------: |:-------------:|
-|Accuracy|0.5456
-|Precision|0.306
-|Recall|0.553
-|F1|0.394
 
 ## Explanations
 
